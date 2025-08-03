@@ -1,0 +1,7 @@
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.14.1
+matplotlib==3.10.0
+tqdm==4.67.1
+torch==2.6.0+cu124
+mamba-ssm==2.2.4
